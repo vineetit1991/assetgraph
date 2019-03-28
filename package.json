@@ -1,9 +1,8 @@
 {
-  "name": "assetgraph",
+  "name": "one-assetgraph",
   "description": "An auto discovery dependency graph based optimization framework for web pages and applications",
   "repository": "git://github.com/assetgraph/assetgraph.git",
-  "version": "2.17.4",
-  "license": "BSD-3-Clause",
+  "version": "2.17.5",
   "maintainers": [
     {
       "name": "Andreas Lind",
